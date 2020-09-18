@@ -3,10 +3,9 @@ PROJECT NAME:
 Generating Keywords for Google Ads
 Automatically generate keywords for a search engine marketing campaign using Python.
 
-TECHNOLOGY
-Python
+TECHNOLOGY : Python
 
-Project Description
+Project Description : 
 a digital marketing agency, which is approached by a massive online retailer of furniture.
 the task : creating a prototype set of keywords for search campaigns for their sofas section. using Python
 
